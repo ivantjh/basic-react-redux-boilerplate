@@ -22,4 +22,5 @@ const store = createStore(
     )
 );
 
+persistStore(store);
 export default store;

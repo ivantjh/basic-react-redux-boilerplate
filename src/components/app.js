@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react';
 
-// import '../stylesheets/style.scss';
+import '../stylesheets/style.scss';
 
 const App = (props) => (
   <div>{props.children}</div>
